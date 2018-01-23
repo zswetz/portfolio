@@ -16,3 +16,4 @@ collections:
   work:
     output: true
     permalink: /:name
+theme: jekyll-theme-minimal
